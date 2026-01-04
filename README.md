@@ -14,7 +14,7 @@
 
 ---
 
-## Profile Overview & Activity
+##  Activity
 
 <div align="center">
 
