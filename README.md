@@ -82,10 +82,11 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=abhishek-codez&theme=github_dark&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+### 🏆 GitHub Achievements
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abhishek-codez&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10)
 
 </div>
-
 
 ---
 
