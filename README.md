@@ -77,7 +77,7 @@
 </div>
 
 ---
-
+<!--
 ## GitHub Achievements
 
 <div align="center">
@@ -87,7 +87,7 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abhishek-codez&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10)
 
 </div>
-
+-->
 ---
 
 ## Connect With Me
