@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=4000&pause=500&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello,+I'm+Abhishek+Badagi;Full-Stack+Developer;Cloud+Native+Enthusiast;Computer+Science+Student" alt="Typing Animation" />
 </p>
-
+<!-- //abhi -->
 <div align="center">
 
 ## Full-Stack Developer | Cloud Native | Computer Science Engineering
