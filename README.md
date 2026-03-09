@@ -5,22 +5,17 @@
 <br><br>
 
 <a href="https://linkedin.com/in/abhishek-madar-">
-<img src="https://skillicons.dev/icons?i=linkedin" height="36">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40">
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://abhishekmadar.vercel.app">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="36">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/user.png" height="40">
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:abhishekbadagi06@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="36">
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/abhishek.madar.543/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="36">
+<img src="https://skillicons.dev/icons?i=gmail" height="40">
 </a>
 
 </div>
